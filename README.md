@@ -32,14 +32,12 @@ I'm a passionate self-taught programmer with intermediate skills in **Django** a
 ---
 
 ## 📈 Fun Facts  
-- My left-hand codes faster than my right hand. 
-- I am also a proficient pianist.  
+- My laugh makes others laugh. I have never known why🤧. 
+- I am also a proficient pianist and chess player.  
 
 ---
 
 ## 📫 Let's Connect!  
-- 🐦 [Twitter](mailto:@ChristopheTuyi5)  
-- 💼 [LinkedIn](mailto:in/christophe-tuyishime-6a482b290)  
 - 📧 Email: [tuyishimechristophe84@gmail.com](mailto:tuyishimechristophe84@gmail.com)  
 
 🤝 I'm open to **collaborations**, **mentorship**, and **sharing knowledge**. Let's build something incredible together!  
