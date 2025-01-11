@@ -50,9 +50,7 @@ I'm a passionate self-taught programmer with intermediate skills in **Django** a
 - 📧 Email: [tuyishimechristophe84@gmail.com](mailto:tuyishimechristophe84@gmail.com)  
 
 🤝 I'm open to **collaborations**, **mentorship**, and **sharing knowledge**. Let's build something incredible together!
-
-![Repo Stars](https://img.shields.io/github/stars/RemyCodes0/TIEs?style=social)
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=RemyCodes0&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
