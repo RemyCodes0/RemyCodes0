@@ -27,9 +27,6 @@ I'm a passionate self-taught programmer with intermediate skills in **Django** a
 - **Frameworks & Libraries**: Django, Tailwind CSS  
 - **Tools**: Git, GitHub, VS Code
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RemyCodes0&layout=compact)
 
 ---
@@ -39,6 +36,7 @@ I'm a passionate self-taught programmer with intermediate skills in **Django** a
 ## 🌍 Goals  
 🌟 **Short-Term**: Ace my learning curve in **AI** and **Django** while contributing to meaningful projects.  
 🌟 **Long-Term**: Develop groundbreaking applications in **AI-powered** and **smart automation**, paving the way for innovation in Africa and beyond.  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RemyCodes0&theme=radical)](https://git.io/streak-stats)
 
 ---
 
