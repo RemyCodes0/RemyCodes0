@@ -22,10 +22,22 @@ I'm a passionate self-taught programmer with intermediate skills in **Django** a
 
 ---
 
-## 🛠️ Technologies & Tools  
-- **Languages**: Python, HTML, CSS  
-- **Frameworks & Libraries**: Django, Tailwind CSS  
-- **Tools**: Git, GitHub, VS Code
+### 🛠 Tech Stack
+
+**Languages**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Frameworks & Libraries**  
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+**Tools**  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RemyCodes0&layout=compact)
 
@@ -36,9 +48,6 @@ I'm a passionate self-taught programmer with intermediate skills in **Django** a
 ## 🌍 Goals  
 🌟 **Short-Term**: Ace my learning curve in **AI** and **Django** while contributing to meaningful projects.  
 🌟 **Long-Term**: Develop groundbreaking applications in **AI-powered** and **smart automation**, paving the way for innovation in Africa and beyond.  
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RemyCodes0&theme=radical)](https://git.io/streak-stats)
-
 ---
 
 ## 📈 Fun Facts  
