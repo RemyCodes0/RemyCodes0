@@ -5,10 +5,7 @@
 
 ## 🌟 About Me  
 I'm a passionate self-taught programmer with intermediate skills in **Django** and a growing interest in **Artificial Intelligence**. My journey started with curiosity and has evolved into a mission: to leverage technology for community development and innovation.  
-
----
-
-## 📈 Some Stats About Me✨ 
+ 
 ![Christophe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RemyCodes0&show_icons=true&hide=stars&count_private=true)
 
 ---
@@ -19,8 +16,9 @@ I'm a passionate self-taught programmer with intermediate skills in **Django** a
 
 🌱 **What I'm Learning**  
 - Backend development skills using **Python/Django**  
-- AI foundations, including **machine learning** and **data analysis**.   
-![GitHub Contribution Snake](https://github.com/RemyCodes0/RemyCodes0/blob/output/github-contribution-grid-snake.svg)
+- AI foundations, including **machine learning** and **data analysis**.
+   
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 
