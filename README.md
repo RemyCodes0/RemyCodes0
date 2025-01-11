@@ -43,6 +43,14 @@ I'm a passionate self-taught programmer with intermediate skills in **Django** a
 🤝 I'm open to **collaborations**, **mentorship**, and **sharing knowledge**. Let's build something incredible together!  
 
 ---
+
+## 📈 Some Stats About Me✨ 
 ![Christophe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RemyCodes0&show_icons=true&hide=stars&count_private=true)
+
+---
+## ✨ Good To Know:
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RemyCodes0&layout=compact)
+
+---
 
 > **"The best way to predict the future is to create it."**
