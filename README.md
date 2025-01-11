@@ -38,9 +38,8 @@ I'm a passionate self-taught programmer with intermediate skills in **Django** a
 ---
 
 ## 📫 Let's Connect!  
-- 🌐 [Portfolio](#) _(coming soon)_  
-- 🐦 [Twitter](#)  
-- 💼 [LinkedIn](#)  
+- 🐦 [Twitter](@ChristopheTuyi5)  
+- 💼 [LinkedIn](in/christophe-tuyishime-6a482b290)  
 - 📧 Email: [tuyishimechristophe84@gmail.com](mailto:tuyishimechristophe84@gmail.com)  
 
 🤝 I'm open to **collaborations**, **mentorship**, and **sharing knowledge**. Let's build something incredible together!  
