@@ -20,6 +20,7 @@ I'm a passionate self-taught programmer with intermediate skills in **Django** a
 🌱 **What I'm Learning**  
 - Backend development skills using **Python/Django**  
 - AI foundations, including **machine learning** and **data analysis**.   
+![GitHub Contribution Snake](https://github.com/RemyCodes0/RemyCodes0/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
