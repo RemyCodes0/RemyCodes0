@@ -4,7 +4,7 @@
 🌍 Based in Cameroon | 🌟 Driven to make a global impact  
 
 ## 🌟 About Me  
-I'm a passionate self-taught programmer with intermediate skills in **Django** and a growing interest in **Artificial Intelligence**. My journey started with curiosity and has evolved into a mission: to leverage technology for community development and innovation.  
+I'm a passionate self-taught programmer with intermediate skills in **Django** and a growing interest in **Artificial Intelligence**. My journey started with curiosity and has evolved into a mission: to leverage technology for community development and innovation.   
  
 ![Christophe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RemyCodes0&show_icons=true&hide=stars&count_private=true)
 
