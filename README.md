@@ -65,6 +65,10 @@ Develop groundbreaking applications in **AI-powered** and **smart automation**, 
 - My laugh makes others laugh. I have never known why🤧. 
 - I am also a proficient pianist and chess player.  
 
+### 📊 GitHub Contributions
+
+![Your Contributions](https://activity-graph.herokuapp.com/graph?username=RemyCodes0&theme=dracula)
+
 ---
 
 ## 📫 Let's Connect!  
