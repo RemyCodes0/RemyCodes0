@@ -6,6 +6,13 @@
 ## 🌟 About Me  
 I'm a passionate self-taught programmer with intermediate skills in **Django** and a growing interest in **Artificial Intelligence**. My journey started with curiosity and has evolved into a mission: to leverage technology for community development and innovation.  
 
+---
+
+## 📈 Some Stats About Me✨ 
+![Christophe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RemyCodes0&show_icons=true&hide=stars&count_private=true)
+
+---
+
 💻 **Current Focus**  
 - Building impactful **web applications** using Django.  
 - Exploring **machine learning** to integrate AI into real-world solutions.  
@@ -20,6 +27,8 @@ I'm a passionate self-taught programmer with intermediate skills in **Django** a
 - **Languages**: Python, HTML, CSS  
 - **Frameworks & Libraries**: Django, Tailwind CSS  
 - **Tools**: Git, GitHub, VS Code  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RemyCodes0&layout=compact)
 
 ---
 
@@ -40,17 +49,12 @@ I'm a passionate self-taught programmer with intermediate skills in **Django** a
 ## 📫 Let's Connect!  
 - 📧 Email: [tuyishimechristophe84@gmail.com](mailto:tuyishimechristophe84@gmail.com)  
 
-🤝 I'm open to **collaborations**, **mentorship**, and **sharing knowledge**. Let's build something incredible together!  
+🤝 I'm open to **collaborations**, **mentorship**, and **sharing knowledge**. Let's build something incredible together!
+
+![Repo Stars](https://img.shields.io/github/stars/RemyCodes0/TIEs?style=social)
+
 
 ---
 
-## 📈 Some Stats About Me✨ 
-![Christophe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RemyCodes0&show_icons=true&hide=stars&count_private=true)
-
----
-## ✨ Good To Know:
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RemyCodes0&layout=compact)
-
----
 
 > **"The best way to predict the future is to create it."**
