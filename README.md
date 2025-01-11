@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Remy!  
 
-🎯 **Aspiring Django Developer**  
+🎯 **Intermediate Backend Developer**  
 🌍 Based in Cameroon | 🌟 Driven to make a global impact  
 
 ## 🌟 About Me  
