@@ -25,7 +25,10 @@ I'm a passionate self-taught programmer with intermediate skills in **Django** a
 ## 🛠️ Technologies & Tools  
 - **Languages**: Python, HTML, CSS  
 - **Frameworks & Libraries**: Django, Tailwind CSS  
-- **Tools**: Git, GitHub, VS Code  
+- **Tools**: Git, GitHub, VS Code
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RemyCodes0&layout=compact)
 
