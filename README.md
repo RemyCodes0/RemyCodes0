@@ -57,7 +57,6 @@ Ace my learning curve in **AI** and **Django** while contributing to meaningful 
 Develop groundbreaking applications in **AI-powered** and **smart automation**, paving the way for innovation in **Africa** and beyond.  
 
 ![Automation](https://img.shields.io/badge/Automation-FF5733?style=for-the-badge&logo=robot&logoColor=white)  
-
 ![Africa](https://img.shields.io/badge/Africa-3F8E43?style=for-the-badge&logo=africa&logoColor=white)
 
 ---
